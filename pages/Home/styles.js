@@ -1,6 +1,6 @@
  import styled from 'styled-components'
  import UsersImage from '../../assets/users.png';
- 
+
 
  export const Container = styled.div`
          background-color: #181f36;
@@ -45,7 +45,7 @@
       
  `
  export const TopBackground = styled.div`
-       background: #fe7e5d;
+       background: linear-gradient(180deg, #fe7e5d 0%, #FF6378 100%);
        height: 30vh;
        width: 90vw;
        max-width: 800px;

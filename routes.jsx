@@ -11,7 +11,7 @@ import ListUsers from './pages/ListUsers'
    },
 
    {
-    path: '/Lista-de usuarios',
+    path: '/Lista-de-usuarios',
     element: <ListUsers />
    }
 

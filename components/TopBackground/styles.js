@@ -3,7 +3,7 @@
 import styled from "styled-components";
 
 export const Background = styled.div`
-       background: linear(to right, #fe7e5d, #7f3841);
+       background: linear-gradient(to right, #fe7e5d, #FF6378);
        height: 30vh;
        width: 90vw;
        max-width: 800px;
